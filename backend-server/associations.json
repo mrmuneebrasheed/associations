@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Konexio",
+        "image": "http://localhost:3000/img/konexio-logo.png",
+        "description": "As a  a Datadock-certified training provider, Konexio’s goal is to create career opportunities by training the most vulnerable people in digital skills – from the most basic to the most advanced – in order to facilitate their socio-professional inclusion. From refugees, to unemployed youth, to women in the workforce,  we aim to foster a world where everyone is included in the digitalisation of society. "
+    },
+    {
+        "name": "Restau au Coeur",
+        "image": "http://localhost:3000/img/restau-au-coeur.png",
+        "description": "The Restaurants du Cœur, commonly and familiarly known as the Restos du Cœur, is a French charity, the main activity of which is to distribute food packages and hot meals to those in need. The association does not only target homeless but also all those with a low or very low income."
+    },
+    {
+        "name": "Croix Rouge",
+        "image": "http://localhost:3000/img/croix-rouge.jpg",
+        "description": "The French Red Cross (French: Croix-Rouge française), or the CRF, is the national Red Cross Society in France founded in 1864 and originally known as the Société française de secours aux blessés militaires (SSBM)."
+    }
+]
